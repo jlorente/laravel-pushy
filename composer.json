@@ -1,6 +1,6 @@
 {
     "name": "jlorente/laravel-pushy",
-    "description": "Laravel ^5.6 integration for the Jlorente Pushy package.",
+    "description": "Laravel integration for the Pushy SDK including a notification channel",
     "keywords": [
         "php",
         "jlorente",

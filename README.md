@@ -1,6 +1,6 @@
 Pushy SDK for Laravel
 =========================
-This extension allows you to access the Pushy API by a comprehensive way.
+Laravel integration for the Pushy SDK including a notification channel.
 
 ## Installation
 

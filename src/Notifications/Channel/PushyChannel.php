@@ -26,7 +26,7 @@ use Jlorente\Pushy\Pushy;
 /**
  * Class PushyChannel.
  * 
- * A notification channel to send in app events to Pushy.
+ * A notification channel to send in notifications through Pushy API.
  *
  * @author Jose Lorente <jose.lorente.martin@gmail.com>
  */

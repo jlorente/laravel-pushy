@@ -1,6 +1,6 @@
 Pushy SDK for Laravel
-=========================
-Laravel integration for the Pushy SDK including a notification channel.
+=====================
+Laravel integration for the [Pushy SDK](https://github.com/jlorente/pushy-php-sdk) including a notification channel.
 
 ## Installation
 

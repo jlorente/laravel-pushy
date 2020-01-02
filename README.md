@@ -51,7 +51,13 @@ return [
 ];
 ```
 
-3. Set the api_key in the config/pushy.php file or use the predefined env 
+3. Publish the package in order to copy the configuration file to the config folder.
+
+```bash
+$ php artisan vendor:publish --provider=Jlorente\\Laravel\\Pushy\\PushyServiceProvider
+```
+
+4. Set the api_key in the config/pushy.php file or use the predefined env 
 variables.
 
 config/pushy.php
